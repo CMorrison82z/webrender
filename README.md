@@ -1,5 +1,7 @@
 # WebRender
 
+Forked. Removes `gleam` (mozilla telemetry) and other junk. Remove support for non-free OSes.
+
 [![Version](https://img.shields.io/crates/v/webrender.svg)](https://crates.io/crates/webrender)
 
 WebRender is a GPU-based 2D rendering engine written in
